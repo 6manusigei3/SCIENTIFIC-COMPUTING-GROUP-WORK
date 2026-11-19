@@ -1,5 +1,7 @@
 # BIT 2118 — Scientific Computing Group Work
 
+**REG NO: BSCCS/2025/40046**
+
 > **Scientific programming, numerical analysis and computational problem-solving with Python.**
 
 This repository presents the group's coursework for **BIT 2118: Scientific Computing**. It brings together Python implementations, mathematical explanations and illustrative applications of computational methods. The work progresses from numerical data handling and linear algebra to root-finding, differential equations, optimisation and simulation.
